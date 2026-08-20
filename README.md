@@ -1,5 +1,5 @@
 # Advanced Bank Term Deposit Prediction Model
- 
+  
 **Predictive ML Pipeline for Customer Segmentation & Targeted Marketing Strategy**
 
 End-to-end machine learning analysis on 41,188 bank customer records to identify high-probability term deposit subscribers and optimize marketing campaign ROI.
